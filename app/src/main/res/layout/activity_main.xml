@@ -5,13 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="#33333"
+    android:background="#333333"
     android:orientation="vertical">
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="56dp">
-
+.
         <TextView
             android:id="@+id/gallery_number"
             android:layout_width="wrap_content"
