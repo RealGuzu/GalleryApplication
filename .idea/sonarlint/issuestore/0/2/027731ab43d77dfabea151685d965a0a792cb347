@@ -1,0 +1,10 @@
+
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¥³œú
+f	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡«¥¸
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¿”ôÐ
+w
+java:S3252!"\Use static access with "android.provider.MediaStore$MediaColumns" for "BUCKET_DISPLAY_NAME".(°öò˜ýÿÿÿÿ
+h
+java:S3252#"SUse static access with "android.provider.MediaStore$MediaColumns" for "DATE_TAKEN".(˜˜µ
