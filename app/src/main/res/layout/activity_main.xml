@@ -23,11 +23,10 @@
             android:textStyle="bold"/>
 
 
-
-    <androidx.recyclerview.widget.RecyclerView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/recyclerview_gallery_images"/>
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerview_gallery_images"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
     </RelativeLayout>
 
